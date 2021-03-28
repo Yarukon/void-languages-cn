@@ -233,7 +233,7 @@
 	"add_rarity": "创建新的稀有值",
 
 	"viewing_inventory": "正在查看 :name: 的库存",
-	"pointshop_money": "Pointshop :x: Money",
+	"pointshop_money": "Pointshop :x: 点数",
 	
 	"settings_menubind": "按键绑定",
 	"settings_menubind_desc": "绑定打开Voidcases菜单的按键.",
