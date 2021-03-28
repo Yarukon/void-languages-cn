@@ -5,7 +5,7 @@
 	"settings_marketplace_lifetime_desc": "一个上架出售的物品可以存留多久? (单位: 小时)",
 	"unboxing": "开箱",
 	"equipped_item": "已装备:",
-	"requires_key": "需要的钥匙",
+	"requires_key": "需要钥匙",
 	"does_not_exist": "你要装备的物品并不存在!",
 	"settings_boxcollision_desc": "箱子实体无碰撞?",
 	"item_type": "物品类型",
@@ -190,9 +190,9 @@
 
 	"best_sellers": "信誉最高的商家",
 
-	"force_unbox_type": "Force unbox type",
+	"force_unbox_type": "强制开箱风格",
 
-	"any": "任何",
+	"any": "任何风格",
 	"csgo_unboxing": "CS:GO 开箱风格",
 	"world_unboxing": "世界内开箱",
 
