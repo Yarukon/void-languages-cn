@@ -53,7 +53,7 @@
 	"settings_annoucewinr": "在聊天框中宣布开出物品的罕见度限制",
 	"items_to_sell": "待售物品",
 	"entity": "实体",
-	"just_unboxed": "你刚刚开启了: ",
+	"just_unboxed": "你刚刚开出了: ",
 	"settings_marketplace_lifetime": "市场上架时长",
 	"settings_command": "命令菜单",
 	"create_items_shop": "在 '创建物品' 分类中创建物品!",
