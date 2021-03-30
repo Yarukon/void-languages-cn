@@ -74,7 +74,7 @@
 	"settings_disablemarketplace_desc": "是否关闭商城功能?",
 	"mystery_item": "神话物品",
 	"creating_key": "创建新钥匙",
-	"settings_maxequipped_desc": "玩家能装备的最大武器数量",
+	"settings_maxequipped_desc": "玩家能装备的最大物品数量",
 	"settings_disabletrading_desc": "是否关闭交易所功能?",
 	"items": "物品",
 	"error_occured": "发生错误:",
