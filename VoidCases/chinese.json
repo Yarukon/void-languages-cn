@@ -1,6 +1,6 @@
 {
 	"not_enough_items": "你没有足够的金钱!",
-	"sell_in_shop": "商店内出售",
+	"sell_in_shop": "在系统商店内售卖",
 	"settings_despawn": "开箱实体移除延时",
 	"settings_marketplace_lifetime_desc": "一个上架出售的物品可以存留多久? (单位: 小时)",
 	"unboxing": "开箱",
