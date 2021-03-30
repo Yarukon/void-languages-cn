@@ -1,5 +1,6 @@
 # VoidLanguages
 
+此分支为国内Void系列插件语言更新站
 You can help us translate the addon to other languages by opening a pull request here, just go to the folder of the respective addon, and make a new file with the translation based of english.json.
 
 A pull request will be opened if you try to add a new language. It will be reviewed, and if everything is OK, the change is merged into production.
