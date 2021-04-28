@@ -64,7 +64,7 @@
 	"trading_fromply": "来自 %s",
 	"minute_short": "分钟",
 	"buy": "购买",
-	"unlocks_cases": "开箱",
+	"unlocks_cases": "可用于打开",
 	"unlocks": "可解锁箱子",
 	"trading_requestreceived": "你收到了一个交易请求",
 	"auto_equip": "自动装备",
