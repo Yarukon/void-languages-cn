@@ -229,7 +229,7 @@
 	"inventories": "物品栏",
 
 	"win_chance": "掉落几率",
-	"rarities": "稀有值",
+	"rarities": "个稀有值",
 	"add_rarity": "创建新的稀有值",
 
 	"viewing_inventory": "正在查看 :name: 的库存",
