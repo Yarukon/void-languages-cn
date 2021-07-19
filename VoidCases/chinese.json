@@ -81,7 +81,7 @@
 	"settings_casesatonce_desc": "玩家可以生成的最大箱子数量",
 	"settings_annoucewin_desc": "开出的物品是否在聊天框显示?",
 	"week_short": "周",
-	"settings_despawn_desc": "多少秒后后箱子会消失?",
+	"settings_despawn_desc": "多少秒后箱子会消失?",
 	"is_mystery": "是否为神秘物品?",
 	"show_if_cant_purchase": "在不可购买时显示",
 	"settings_currency_desc": "Voidcases的货币类型.",
@@ -113,7 +113,7 @@
 	"is_permanent": "是否永久",
 	"no_items": "仓库为空!",
 	"trading_mismatch": "物品/金额不匹配",
-	"settings_3d2dinfo_desc": "信息框是否在HUD上绘制信息框来代替?",
+	"settings_3d2dinfo_desc": "信息框是否要使用在HUD上绘制来代替?",
 	"trading_request": "交易请求",
 	"trading_success": "与 %s 的交易已成功完成",
 	"just_listed": "你刚刚上架了:",
@@ -208,12 +208,9 @@
 	"delete_lower": "删除",
 
 	"settings_maxmarketplacelistings": "最大上架数量",
-	"settings_maxmarketplacelistings_desc": "玩家一次性能上架多少个物品?",
+	"settings_maxmarketplacelistings_desc": "每个玩家最多能上架多少个物品?",
 
-	"too_many_listings": "你上架了过多商品! 最大只能上架 :x: 个!",
-
-	"settings_3dspinunbox": "3D开箱",
-	"settings_3dspinunbox_desc": "是否渲染 2D 开箱界面在世界内箱子的上方?",
+	"too_many_listings": "你上架了过多商品! 最多只能上架 :x: 个!",
 
 	"add_money": "添加金额",
 	"trade_chat": "交易聊天",
