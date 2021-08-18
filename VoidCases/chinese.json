@@ -13,7 +13,7 @@
 	"no_currency": "没有选择货币类型! 请在设置菜单中设定!",
 	"settings_disablemarketplace": "关闭玩家商城",
 	"pointshop_name": "物品显示名称",
-	"buy_cooldown": "冷却中! 请在 %s 秒后购买",
+	"buy_cooldown": "冷却中! 请在 %s 后购买",
 	"skin_type": "所有武器皮肤",
 	"shop": "商店",
 	"settings_tradetime": "交易请求失效时间",
